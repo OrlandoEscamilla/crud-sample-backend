@@ -13,6 +13,7 @@ namespace BEComentarios
 	{
 		public static void Main(string[] args)
 		{
+			Console.WriteLine("Iniciando Aplicación");
 			CreateHostBuilder(args).Build().Run();
 		}
 
